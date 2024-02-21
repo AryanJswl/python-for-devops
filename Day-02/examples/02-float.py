@@ -12,7 +12,7 @@ print("Subtraction:", result2)
 result3 = num1 * num2
 print("Multiplication:", result3)
 
-result4 = num1 / num2
+result4 = num1 / num2    # double slash does integer division
 print("Division:", result4)
 
 # Rounding
